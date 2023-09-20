@@ -1,4 +1,4 @@
-name: cunning_document_scanner
+name: cunning_document_scanner_vmo
 description: A document scanner plugin for flutter. Scan and crop automatically on iOS and Android.
 version: 1.1.2
 homepage: https://cunning.biz
