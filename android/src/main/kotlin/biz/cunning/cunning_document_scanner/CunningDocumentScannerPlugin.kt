@@ -1,4 +1,4 @@
-package biz.cunning.cunning_document_scanner
+package biz.cunning.cunning_document_scanner_vmo
 
 import android.app.Activity
 import android.content.ActivityNotFoundException
